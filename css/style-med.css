@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: #8dc63f;
+    font-family: "Arial";
+}
+.wrapper {
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 960px;
+    background-color: #fff;
+}
+.header{
+    padding: 25px 0;
+}
+.logo p{
+    font-size: 19px;
+}
+.logo b{
+    display: block;
+    font-size: 25px;
+}
+.logo{
+    float: left;
+}
+.contact-info{
+    float: right;
+}
+.contact-info i{
+    display: block;
+    text-align: right;
+}
+.contact-info a{
+    font-size: 25px;
+    display: inline-block;
+    color: #39930d;
+    text-decoration: none;
+}
+.clear{
+    clear: both;
+}
